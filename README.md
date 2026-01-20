@@ -8,7 +8,7 @@ Pasos para ejecutar proyecto:
 ## Desarrollo 
 
 1. Correr el devServer ```npm run dev```
-2. Abrir el proyecto en: ```localhost:3000```
+2. Abrir el proyecto en: ```http://localhost:3000```
 
 ## Producción 
 
