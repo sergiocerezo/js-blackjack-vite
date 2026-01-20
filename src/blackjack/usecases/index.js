@@ -1,0 +1,10 @@
+export { acumularPuntos } from './acumular-puntos';
+export { barajearDeck } from './barajear-deck';
+export { calcularValorCarta } from './valor-carta';
+export { comprobarGanador } from './comprobar-ganador';
+export { crearCarta } from './crear-carta';
+export { crearDeck } from './crear-deck';
+export { inicializarJuego } from './inicializar-juego';
+export { pedirCarta } from './pedir-carta';
+export { turnoComputadora } from './turno-computadora';
+export { turnoPersona } from './turno-persona';
